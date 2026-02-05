@@ -4,6 +4,8 @@
 Projet réalisé de manière **autodidacte** il y a 3 ans pour m’initier au développement web.  
 Objectif : apprendre les bases de **HTML** et **CSS**, structurer une page, créer des formulaires et comprendre le flux d’une page web.
 
+Ce projet a été réalisé après avoir suivi le cours **[Créez votre site web avec HTML5 et CSS3](https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3)** sur OpenClassrooms.
+
 ---
 
 ## ⚙️ Fonctionnalités
